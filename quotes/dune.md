@@ -4,3 +4,4 @@
 * "When is a gift not a gift?"
 * The spice must flow.
 * Fear is the mind-killer.
+* Oopsy, added two quotes in the last commit.
